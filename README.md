@@ -1,5 +1,5 @@
 # Responsive Web Design Projects - Build a Product Landing Page
-> freeCodeCamp - Certificação Treinamento Web Design Responsivo | Projeto 03 - Construa uma página de conversão do produto
+> Free Code Camp - Certificação Treinamento Web Design Responsivo | Projeto 03 - Construa uma página de conversão do produto
 
 ## Objective
 Build a CodePen.io app that is functionally similar to this: https://codepen.io/freeCodeCamp/full/RKRbwL.
